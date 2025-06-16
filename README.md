@@ -2,9 +2,6 @@
 
 A modern full-stack E-Commerce Web Application built using the **MERN stack**. It offers a smooth shopping experience for users and a powerful dashboard for admins. This app is optimized for performance, scalability, and responsive design.
 
-![GitHub stars](https://img.shields.io/github/stars/hrsh1n1/E-comm-WebApp?style=social)
-![GitHub forks](https://img.shields.io/github/forks/hrsh1n1/E-comm-WebApp?style=social)
-![GitHub issues](https://img.shields.io/github/issues/hrsh1n1/E-comm-WebApp)
 
 ---
 
